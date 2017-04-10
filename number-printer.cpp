@@ -2,5 +2,5 @@
 int  main (){
   int  number = 100;
   printf("%d", number );
- 0;
+return 0;
 }
